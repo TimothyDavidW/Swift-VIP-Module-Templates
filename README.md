@@ -3,7 +3,9 @@
 ## Installation
 
 Copy 'VIP Module.xctemplate' to:
-`Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application`
+`~/Library/Developer/Xcode/Templates/`
+
+cp -r VIP\ Module.xctemplate ~/Library/Developer/Xcode/Templates/
 
 ## Usage
 
