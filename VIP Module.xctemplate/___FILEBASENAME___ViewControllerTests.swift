@@ -1,8 +1,6 @@
 import Quick
 import Nimble
 
-@testable import Wuntu
-
 class ___VARIABLE_productName:identifier___ViewControllerTests: QuickSpec {
 
     override func spec() {
